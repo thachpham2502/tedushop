@@ -1,0 +1,10 @@
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.pdb
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,12 @@
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.pdb
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.pdb
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.pdb

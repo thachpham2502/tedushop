@@ -1,0 +1,11 @@
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Service.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Service.pdb
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Common.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Common.pdb
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.pdb
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.pdb
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.dll
+c:\users\pc\documents\visual studio 2015\Projects\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
